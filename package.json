@@ -20,11 +20,11 @@
   },
   "homepage": "https://github.com/cat-ninja/testrail-helper#readme",
   "dependencies": {
-    "axios": "^0.19.2",
-    "commander": "^6.0.0",
-    "fast-xml-parser": "^3.17.4",
-    "form-data": "^3.0.0",
-    "lodash": "^4.17.19",
-    "moment-timezone": "^0.5.31"
+    "axios": "^0.21.4",
+    "commander": "^6.2.1",
+    "fast-xml-parser": "^3.21.1",
+    "form-data": "^3.0.1",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.34"
   }
 }
